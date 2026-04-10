@@ -143,8 +143,13 @@ If you use this code, please cite:
 
 ```bibtex
 @article{mereau2026d3cmb,
-  title={D3 = Weyl(SU(3)) Discrete Symmetry in the Cosmic Microwave Background},
-  author={Mereau, Robert},
-  year={2026}
+  title        = {Evidence for Dihedral $D_3$ Symmetry in the Planck CMB Temperature Anisotropy},
+  author       = {Mereau, Robert},
+  year         = {2026},
+  month        = apr,
+  publisher    = {Preprints},
+  doi          = {10.20944/preprints202604.0264.v2},
+  url          = {https://doi.org/10.20944/preprints202604.0264.v2},
+  note         = {Preprint, version 2}
 }
 ```
